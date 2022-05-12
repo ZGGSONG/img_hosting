@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:30:54.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="d9iIkWQHUGPYO-xuO4iV" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T08:31:20.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MmsrIewQCQgHXD8-2R9B" version="16.6.4" type="github">
   <diagram id="lBHBsinlIeqBkN6kxjZl" name="第 1 页">
-    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,25 +11,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-1" value="进站测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoa2lu9JYhYnW4Qx0ocO-2" target="Zoa2lu9JYhYnW4Qx0ocO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-2" value="生成图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zoa2lu9JYhYnW4Qx0ocO-3" target="Zoa2lu9JYhYnW4Qx0ocO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-3" value="手动复测确认上抛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="440" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-4" value="自动上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zoa2lu9JYhYnW4Qx0ocO-5" value="SCADA获取出站数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="440" y="240" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
